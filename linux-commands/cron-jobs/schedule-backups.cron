@@ -1,0 +1,1 @@
+0 2 * * * /home/ubuntu/linux-shell-scripting-devops/shell-scripts/backup-logs.sh
